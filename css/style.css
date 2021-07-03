@@ -1,0 +1,14 @@
+.carousel-item  img{
+    width: 90px;
+    border: solid   5px white;
+
+
+}
+.client-slider i {
+    color: #e65f78;
+
+
+}
+.carousel-indicators li{
+    background-color: red;
+} 
